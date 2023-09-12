@@ -1,0 +1,5 @@
+Feria/N:acc quarta/ADJ:NUM in/PREP vigilia/N:abl sancti/ADJ Laurencii/N:gen Conradus/ADJ episcopus/N:nom Wratislaviensis/N:gen in/PREP curia/N:abl episcopali/ADJ:abl Wratislavie/N:voc moritur/V:IND et/CC in/PREP ecclesia/N:abl Wratislaviensi/N:abl tumulatur/V:IND ./SENT
+Tercia/ADJ:NUM quoque/ADV dies/N:nom Septembris/N:gen per/PREP capitulum/N:acc Wratislaviense/N:abl instituitur/V:IND et/CC nominatur/V:IND pro/PREP futuri/ADJ pontificis/N:gen eleccione/N:abl ./SENT
+Hic/DIMOS pontifex/N:nom erat/ESSE:IND dux/N:nom Slesie/ADJ de/PREP Oleschnicza/N:abl et/CC annis/N:abl prope/ADV quadraginta/ADJ:NUM rexit/V:IND illam/DIMOS ecclesiam/N:acc ./SENT
+Sed/CC sub/PREP eius/DET regimine/N:abl pene/N:abl tota/ADJ corruerat/V:IND ./SENT
+Unde/ADV quadam/PRON penitudine/N:dat ductus/V:PTC:nom ,/PUN cesserat/V:IND ante/PREP mortem/N:acc tribus/ADJ:NUM annis/N:abl honori/N:dat et/CC oneri/N:dat episcopatus/N:acc ,/PUN postea/ADV vero/ADV penituit/V:IND et/CC tam/ADV dignitatem/N:acc quam/REL possessionem/N:acc ,/PUN que/CC iam/ADV per/PREP capitulares/ADJ eo/DET resignante/V:PTC:abl tenebatur/V:IND ,/PUN repeciit/V:IND ./SENT

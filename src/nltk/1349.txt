@@ -1,0 +1,3 @@
+Vrbanus/N:nom quintus/ADJ:NUM papa/N:nom cum/PREP annis/N:abl octo/ADJ:NUM sedisset/V:SUB ,/PUN veneno/N:abl intoxicatus/V:PTC:nom obiit/V:IND ./SENT
+Post/PREP cuius/REL mortem/N:acc cardinales/ADJ conclave/N:acc ingressi/V:PTC:nom ,/PUN Gregorium/N:gen undecimum/ADJ:NUM eligunt/V:IND ,/PUN qui/REL ante/ADV vocatus/V:PTC:nom est/ESSE:IND Petrus/N:nom de/PREP Belle/N:abl ,/PUN diaconus/N:nom cardinalis/ADJ ./SENT
+Post/PREP eum/DET sequitur/V:IND tribulacio/ADJ Ecclesie/ADJ ,/PUN quam/REL beata/ADJ Brigitta/N:nom propter/PREP peccata/N:acc hominum/N:gen futuram/V:PTC:acc predixit/ADJ ./SENT

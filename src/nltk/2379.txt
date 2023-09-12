@@ -1,0 +1,2 @@
+Ad/N:abl has/DIMOS eciam/ADJ domesticas/ADJ clades/N:nom epidemie/ADJ morbus/N:nom et/CC Budam/N:acc et/CC fere/ADV omnes/PRON Hungarie/ADJ oras/N:acc pervasit/V:IND ./SENT
+Sed/CC et/CC Regni/N:loc Polonie/N:voc regionem/N:acc circa/PREP Crosznam/N:acc ,/PUN Smygrod/N:abl ,/PUN Strzesow/N:voc et/CC Rimanow/ADJ pestis/N:nom similis/ADJ ex/PREP contagione/N:abl aliquanto/ADJ:abl tempore/N:abl affligebat/V:IND ./SENT

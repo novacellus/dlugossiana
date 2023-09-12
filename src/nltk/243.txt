@@ -1,0 +1,2 @@
+Undecim/ADJ:NUM annis/N:abl Benedictus/N:nom primus/ADJ:NUM Poznaniensis/ADJ episcopus/N:nom gubernata/V:PTC:abl ecclesia/N:abl moritur/V:IND et/CC in/PREP eadem/DET Poznaniensi/ADJ ecclesia/N:nom humatur/V:IND ./SENT
+Cui/REL ad/PREP eleccionem/N:acc canonicam/ADJ lohannes/V:IND vicesimus/ADJ:NUM papa/N:nom a/PREP Kazimiro/N:abl primo/ADV Polonie/NPR rege/N:abl rogatus/V:PTC:nom Marcellum/N:gen primum/ADV nacione/N:dat Romanum/ADJ de/PREP familia/N:abl et/CC domo/N:abl veteri/ADJ Marcellorum/N:gen substituit/V:IND ./SENT

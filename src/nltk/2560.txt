@@ -1,0 +1,2 @@
+Die/N:acc Veneris/N:gen in/PREP crastino/N:abl Ascensionis/N:gen Domini/N:gen Elisabeth/NPR iunior/ADJ:COM filia/N:nom Casimiri/N:gen regis/N:gen ,/PUN pluribus/ADJ:abl egritudinibus/N:abl debilitata/V:PTC:nom ,/PUN in/PREP arce/N:abl Nove/NPR Civitatis/N:gen Korczin/N:acc diem/N:acc obiit/V:IND ./SENT
+Cuius/REL corpusculum/N:nom Cracoviam/N:acc relatum/V:PTC:nom in/PREP sepulchro/N:abl Anne/N:gen regine/N:abl conditum/V:PTC:nom est/ESSE:IND ./SENT

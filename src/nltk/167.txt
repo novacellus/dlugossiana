@@ -1,0 +1,1 @@
+Prohibiturus/V:PTC:nom Boleslaus/N:nom Polonie/NPR rex/N:nom excursiones/N:nom clandestinas/ADJ ,/PUN a/PREP finitimis/ADJ:abl nacionibus/N:abl in/PREP forma/N:abl predocinii/N:gen in/PREP regnum/N:acc suum/POSS frequenter/ADV initas/V:PTC:acc ,/PUN plures/ADJ arces/N:acc in/PREP con-/ADJ

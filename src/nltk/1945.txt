@@ -1,0 +1,3 @@
+DIE/N:gen IOVIS/N:gen MAGNA/N:gen opidum/ADJ Bithom/N:acc per/PREP Bohemos/N:acc hereticos/ADJ expugnatum/V:PTC:acc atque/CC captum/V:PTC:acc per/PREP matronas/N:acc ,/PUN ne/CS incenderetur/V:SUB redemptum/V:PTC:nom est/ESSE:IND ./SENT
+Subsequenti/V:PTC:abl vero/ADV die/N:abl Lune/NPR Sigismundus/V:GED Coributh/FW dux/N:nom Lithuanie/ADJ et/CC Dobeslaus/N:nom Puchala/ADJ de/PREP Wangri/N:gen de/PREP domo/N:abl Wyenyewa/N:gen opidum/ADJ Glywicze/N:gen capiunt/V:IND et/CC sedem/N:acc belli/N:gen presidio/N:dat imposito/V:PTC illic/ADV constituunt/V:IND ./SENT
+Quarta/ADJ:NUM eciam/N:acc Decembris/N:gen anni/N:gen eiusdem/DET castrum/N:nom ecclesie/ADJ Wratislaviensis/N:gen Othmuchow/N:nom a/PREP Bohemis/N:abl hereticis/ADJ:abl expugnatur/V:IND ./SENT

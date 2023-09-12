@@ -1,0 +1,3 @@
+Ducibus/N:dat Boleslao/N:gen Oppoliensi/ADJ ,/PUN Przemislao/ADJ:abl Toschecensi/N:abl treuge/N:loc per/PREP biennium/N:acc petentibus/V:PTC nunciis/N:dat eorum/DET concesse/V:PTC ./SENT
+Non/ADV enim/ADV placuit/V:IND geri/V:INF eciam/N:acc cum/PREP levibus/ADJ:abl hostibus/N:abl bellum/N:acc Casimiri/N:gen regis/N:gen animo/N:abl non/ADV stabilito/V:PTC:abl neque/CC ad/PREP plenum/ADJ maturato/V:PTC:abl et/CC sanato/V:PTC:abl ./SENT
+Novem/ADJ:NUM diebus/N:abl duravit/V:IND convencio/V:IND ,/PUN omni/ADJ:abl multitudine/N:abl ,/PUN cum/PREP iam/ADV singula/ADJ precio/N:abl quadruplo/ADJ:abl ascenderent/V:SUB ,/PUN graves/ADJ sumptus/N:acc tolerante/V:PTC:abl ./SENT

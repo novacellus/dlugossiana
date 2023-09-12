@@ -1,0 +1,2 @@
+Casimiro/ADJ rege/N:abl mansionem/N:acc suam/POSS in/PREP Cracovia/N:abl diebus/N:abl decem/ADJ:NUM et/CC octo/ADJ:NUM continuante/V:PTC:abl ,/PUN Nicolaus/ADJ et/CC Venceslaus/ADJ duces/N:voc Rathiborienses/N:voc ,/PUN Venceslaus/N:nom et/CC lanussius/N:nom Osswanczimenses/ADJ venerant/V:IND ad/PREP suam/POSS serenitatem/N:acc ,/PUN promittentes/V:PTC:nom omnem/PRON assistenciam/V:IND et/CC fidem/N:acc ./SENT
+Quos/REL Casimirus/ADJ rex/N:nom magnifice/ADV honoravit/V:IND et/CC regaliter/ADJ remuneratos/V:PTC:acc ad/PREP propria/ADJ:abl remisit/V:IND ./SENT

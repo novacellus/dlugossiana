@@ -1,0 +1,3 @@
+PRZEMISLAUS/ADJ Maioris/ADJ Polonie/N:voc dux/N:nom cum/PREP fratre/N:abl suo/POSS duce/N:abl Boleslao/ADJ:abl et/CC matre/N:abl Hedvigi/V:INF monasterium/N:acc fratrum/N:gen Predicatorum/V:PTC transfert/V:IND de/PREP Srzodka/N:abl in/PREP civitatem/N:acc Poznaniensem/ADJ ad/PREP ecclesiam/N:acc parochialem/ADJ sancti/ADJ Gothardi/N:gen ,/PUN de/PREP consensu/N:abl Boguphali/N:gen episcopi/N:gen Poznaniensis/ADJ ./SENT
+In/PREP cuius/REL recompensam/V:PTC:acc ecclesiam/N:acc beati/ADJ Alberti/N:gen contulit/V:IND episcopo/N:dat Poznaniensi/ADJ cum/PREP iure/N:abl patronatus/V:PTC:nom ./SENT
+Qui/REL eciam/V:IND Przemislaus/ADJ dux/N:nom filiam/N:acc ducis/V:IND Zlesie/ADJ sibi/PRON iungit/V:IND matrimonio/ADJ ./SENT

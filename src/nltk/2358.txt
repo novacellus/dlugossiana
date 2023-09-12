@@ -1,0 +1,3 @@
+Regnum/N:acc Hungarie/ADJ etsi/CS pro/PREP anno/N:abl illo/DIMOS bellis/N:abl externis/ADJ:abl aliquantulum/ADV quietatum/V:PTC:nom erat/ESSE:IND ,/PUN pestis/N:nom tamen/ADV gravissima/ADJ ,/PUN que/CC eciam/V:IND Austriam/N:acc et/CC Carinthiam/N:acc pervaserat/V:IND ,/PUN illud/DIMOS premebat/V:IND ./SENT
+Polonie/N:voc vero/ADV Regnum/N:gen preter/ADJ guerras/N:acc in/PREP Prussia/N:abl gestas/V:PTC:acc eciam/ADJ defectus/N:nom annone/N:dat affligebat/V:IND ./SENT
+Nam/CC anno/V:IND eodem/DET frumenta/N:nom queque/ADJ male/ADV provenerant/V:IND et/CC hec/N:acc ipsa/DET per/PREP armigeros/N:acc in/PREP bellum/N:acc progredientes/V:PTC:acc consumpta/V:PTC:nom ./SENT

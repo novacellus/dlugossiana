@@ -1,0 +1,1 @@
+In/V:IND fine/N:abl anni/N:nom huius/DIMOS epidimie/ADJ morbus/N:nom invalescens/V:PTC:nom Regnum/N:acc Polonie/NPR et/CC vicinas/ADJ provincias/N:acc vexavit/V:IND ,/PUN plurimisque/ADJ mortalibus/ADJ:abl sua/POSS lue/N:abl extinctis/V:PTC:abl ,/PUN opida/N:voc ,/PUN vicos/N:acc et/CC rura/N:acc in/PREP desertacionem/N:acc diuturnam/ADJ precipitavit/N:acc ./SENT

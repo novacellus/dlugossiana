@@ -1,0 +1,2 @@
+In/V:IND festo/ADJ sancti/ADJ Michaelis/N:nom Lithwani/N:gen irrupcione/N:dat in/PREP terram/N:acc Chelmensem/ADJ facta/V:PTC:nom ,/PUN nove/ADV fundacionis/N:gen opidum/ADJ Strzasburg/N:nom vastant/V:IND ,/PUN cedunt/V:IND et/CC diripiunt/V:IND ,/PUN vasa/N:acc sacra/ADJ contaminant/V:IND ./SENT
+Quos/REL Cunradus/N:nom de/PREP Szak/ADJ comendator/V:GED cum/PREP Culmensibus/N:abl militibus/N:abl in/PREP nemoribus/N:abl consequtus/V:PTC:nom prosternens/V:PTC:nom confligit/V:IND et/CC omnem/PRON predam/ADJ hominum/N:gen ,/PUN rerum/N:gen et/CC peccorum/ADJ reducit/V:IND ./SENT

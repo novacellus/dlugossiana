@@ -1,0 +1,2 @@
+Sexta/N:nom decima/ADJ:NUM die/N:abl mensis/N:nom Iunii/ADJ Ottho/N:dat Culmensis/N:gen episcopus/N:nom morbo/N:abl et/CC senio/N:abl gravatus/V:PTC:nom moritur/V:IND et/CC in/PREP ecclesia/N:abl Culmensi/N:gen sepelitur/V:IND ./SENT
+In/PREP cuius/REL locum/N:acc Iacobus/N:nom canonicus/ADJ Chelmensis/V:PTC per/PREP canonicam/ADJ eleccionem/N:acc succedit/V:IND ,/PUN a/PREP Clemente/N:abl papa/N:nom sexto/ADJ:NUM confirmatus/V:IND ./SENT

@@ -1,0 +1,2 @@
+PESTIFERI/ADJ vermes/N:nom caudas/N:acc velut/ADV cancri/N:nom habentes/V:PTC:nom ,/PUN in/PREP terra/N:abl Prussie/ADJ in/PREP magna/ADJ:abl multitudine/N:abl circa/PREP finem/N:acc Iunii/ADJ mensis/N:dat ebulliunt/V:IND et/CC plures/ADJ mortales/ADJ suo/POSS tactu/N:abl extinguunt/V:IND ./SENT
+Adeo/ADV enim/ADV eorum/DET tactus/N:nom letalis/ADJ extitit/V:IND ,/PUN ut/CS quemcumque/REL rostro/N:abl pupugerint/V:SUB ,/PUN altero/ADJ:abl aut/CC tercio/ADJ:NUM die/N:abl exanimabatur/V:IND ./SENT

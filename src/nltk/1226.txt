@@ -1,0 +1,2 @@
+Vicesima/N:voc quinta/ADJ:NUM die/N:abl mensis/N:nom Marcii/ADJ fundatur/V:IND novus/ADJ chorus/N:nom in/PREP Wladislavia/N:acc antiqua/ADJ in/PREP monte/N:abl in/PREP medio/N:abl antique/ADV civitatis/N:gen per/PREP Mathiam/N:acc episcopum/N:acc Wladislaviensem/N:acc ./SENT
+Cui/REL in/PREP temporum/N:gen processu/N:abl addidit/V:IND et/CC corpus/N:nom et/CC novam/ADJ ecclesiam/N:acc opere/N:abl pulcerrimo/N:dat et/CC munifico/ADJ kathedrali/ADJ:abl titulo/N:abl dignam/ADJ consumavit/V:IND ./SENT

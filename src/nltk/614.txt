@@ -1,0 +1,2 @@
+Lustro/N:dat uno/ADJ:NUM in/PREP pontificatu/N:abl Wladislaviensi/N:dat Ogerius/ADJ exacto/V:PTC:abl moritur/V:IND et/CC in/PREP Wladislaviensi/N:abl ecclesia/N:abl sepelitur/V:IND ./SENT
+Cui/REL Bartha/N:nom Italus/N:nom ,/PUN auditor/N:voc pallacii/N:gen ,/PUN ab/PREP Innocencio/ADJ papa/N:abl tercio/ADJ:NUM provisus/V:PTC:nom succedit/V:IND ./SENT

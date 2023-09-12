@@ -1,0 +1,1 @@
+Ludovigus/N:voc Hungarie/N:voc et/CC Polonie/N:voc rex/N:voc filiam/N:acc suam/POSS Mariam/N:acc natu/N:abl maiorem/ADJ:COM Sigismundo/ADJ filio/N:dat Karoli/N:gen imperatoris/N:gen et/CC Bohemie/ADJ regis/N:gen Brandemburgensi/N:abl marchioni/N:loc desponsat/V:IND ./SENT

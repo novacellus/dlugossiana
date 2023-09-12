@@ -1,0 +1,2 @@
+IOHANNES/N:gen Ploczensis/N:loc episcopus/N:nom cum/PREP annis/N:abl quatuor/ADJ:NUM sedisset/V:SUB ,/PUN obiit/V:IND podagratica/ADJ vexatus/V:PTC:nom passione/N:abl ./SENT
+Cui/REL per/PREP eleccionem/N:acc canonicam/ADJ Guntherus/ADJ canonicus/N:nom Ploczensis/N:gen successit/V:IND ,/PUN nobilis/ADJ de/PREP domo/N:abl Prussorum/V:PTC ,/PUN a/PREP Vincencio/N:abl Gneznensi/ADJ:abl archiepiscopo/N:abl aput/PREP Zneinam/N:acc ,/PUN Cunrado/V:IND Maszovie/ADJ duce/N:abl consenciente/V:PTC:abl ,/PUN confirmatus/V:PTC:nom et/CC consecratus/V:IND ./SENT

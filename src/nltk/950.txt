@@ -1,0 +1,4 @@
+DECIMUS/N:dat Prussie/ADJ Magister/N:nom Poppo/ADJ de/PREP Ostiria/N:acc Cunrado/V:IND de/PREP Tirberg/N:nom vel/CC per/PREP Pruthenos/ADJ occiso/N:acc vel/CC excedente/V:PTC:abl e/PREP vita/N:abl succedit/V:IND ./SENT
+Quo/REL brevi/ADV moriente/V:PTC:abl Haymo/N:abl substituitur/V:IND ;/SENT sed/CC cum/PREP is/DET quoque/ADV absumptus/V:PTC:nom esset/ESSE:SUB ,/PUN Herthmannus/N:nom de/PREP Hoderuge/N:abl in/PREP officium/N:acc assumptus/ADJ ,/PUN duodecimum/ADJ:NUM sortitur/V:IND locum/N:acc ./SENT
+Cui/REL Cunradus/N:nom de/PREP Vuchtewange/N:abl successit/V:IND ;/SENT quo/REL libere/ADV cedente/V:PTC:abl Manegolde/N:abl commendator/N:nom Kinsbergensis/ADJ suffectus/V:PTC:nom est/ESSE:IND ./SENT
+Sub/PREP cuius/REL regimine/N:abl in/PREP loco/N:abl castri/N:gen et/CC opidi/N:loc Czanthir/N:nom veteri/ADJ nomine/N:abl abrogato/V:PTC:abl castrum/N:acc Marienburg/N:nom erectum/V:PTC:nom est/ESSE:IND ./SENT

@@ -1,0 +1,4 @@
+CUNRADUS/ADJ imperator/N:nom sub/PREP hisdem/ADJ temporibus/N:abl moritur/V:IND et/CC in/PREP ecclesia/N:abl Spirensi/N:dat sepelitur/V:IND ./SENT
+Cui/REL filius/N:nom suus/POSS adoptivus/V:IND Henricus/N:nom tercius/ADJ:NUM et/CC gener/V:IND ,/PUN qui/REL dudum/ADV patre/N:abl vivente/V:PTC:abl in/PREP Romanorum/ADJ regem/N:acc electus/V:PTC:nom et/CC constitutus/V:PTC:nom erat/ESSE:IND ,/PUN octuagesimo/ADJ:NUM sexto/ADJ:NUM loco/N:abl ab/PREP Augusto/N:abl in/PREP imperium/N:acc successit/V:IND iocundus/V:GED et/CC bellator/V:IMP ./SENT
+In/PREP silva/N:abl natus/V:PTC:nom erat/ESSE:IND et/CC bis/ADJ:NUM ad/PREP occidendum/V:GER traditus/V:PTC:nom ,/PUN sed/CC tamen/ADV Deo/N:abl protegente/V:PTC:abl illesus/V:PTC:nom evasit/V:IND adhuc/ADV puer/N:nom ./SENT
+Cuius/REL beneficii/N:gen memor/ADJ consecutus/V:PTC:nom imperium/N:acc in/PREP loco/N:abl nativitatis/N:gen sue/N:abl fabrificavit/V:IND et/CC dotavit/V:IND insigne/ADJ monasterium/ADJ ./SENT

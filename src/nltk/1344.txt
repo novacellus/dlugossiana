@@ -1,0 +1,1 @@
+QUINTA/ADJ:NUM decima/ADJ:NUM Augusti/N:nom grandis/ADJ aquarum/N:gen inundacio/V:IND ex/PREP assiduo/N:abl pluviarum/N:gen imbre/N:abl in/PREP Regno/N:abl Polonie/NPR proveniens/V:PTC:nom ,/PUN in/PREP frequentibus/ADJ:abl locis/N:abl frumenta/N:acc ,/PUN fructus/N:acc terre/V:IMP ,/PUN oves/N:acc ,/PUN boves/N:nom ,/PUN pecora/N:acc et/CC iumenta/N:acc submersit/V:IND ./SENT

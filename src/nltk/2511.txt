@@ -1,0 +1,3 @@
+Regina/N:voc Elisabeth/NPR consors/N:nom Casimiri/N:gen regis/N:gen sexta/ADJ:NUM Maii/ADJ hora/N:nom prima/ADJ:NUM noctis/N:gen filiam/N:acc effudit/V:IND ./SENT
+Que/CC die/N:abl Solis/N:loc quarta/ADJ:NUM decima/ADJ:NUM mensis/N:nom Iunii/ADJ in/PREP Cracoviensi/N:abl ecclesia/N:nom per/PREP Ioannem/N:acc Cracoviensem/N:acc episcopum/N:gen baptisata/V:PTC Sophia/N:acc nomen/N:acc accepit/V:IND ./SENT
+Ludi/N:nom deinde/ADV in/PREP decus/N:acc nove/ADV filie/ADJ habiti/V:PTC et/CC premia/ADJ victoribus/N:dat proposita/V:PTC:nom atque/CC data/V:PTC:nom ./SENT

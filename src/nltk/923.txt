@@ -1,0 +1,2 @@
+HELENA/N:nom alias/PRON Ioheleth/N:gen ducissa/N:nom ,/PUN consors/N:nom Boleslai/N:gen Pii/N:gen Kalischiensis/N:gen ducis/V:IND ,/PUN partum/V:PTC:nom femineum/ADJ ,/PUN dum/CS maxime/PRON virilis/ADJ desideraretur/V:SUB ,/PUN aput/PREP Calisch/NPR castrum/N:acc effudit/V:IND ./SENT
+Ob/PREP quod/REL quidem/ADV puerperium/N:nom Boleslaus/N:nom Kalischiensis/N:gen dux/N:nom solennitate/V:PTC baptismalium/ADJ instituta/V:PTC:nom plures/ADJ dies/N:nom in/PREP hilaritate/N:abl deduxit/V:IND et/CC natam/N:acc filiam/N:acc Annam/N:acc nominavit/V:IND ./SENT

@@ -1,0 +1,2 @@
+DUCISSA/N:voc Czirnensis/ADJ Maria/N:nom moritur/V:IND ,/PUN uxor/N:nom Troydeni/ADJ:NUM Maszovie/ADJ et/CC Czirnensis/ADJ ducis/V:IND ,/PUN nacione/N:loc Ruthena/N:voc ./SENT
+Quam/REL anno/N:abl eodem/DET vir/N:nom suus/POSS Troydenus/ADJ Czirnensis/ADJ dux/N:nom fato/N:abl simili/ADJ:abl sequtus/V:PTC:nom est/ESSE:IND ;/SENT ambo/ADJ:NUM in/PREP Ploczensi/ADJ:abl ecclesia/N:abl iustis/ADJ:abl funeriis/N:abl humati/V:IND ./SENT

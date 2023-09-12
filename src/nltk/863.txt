@@ -1,0 +1,1 @@
+Et/V:IND sub/PREP eodem/DET anno/N:abl Poloni/N:loc in/PREP magna/ADJ:abl multitudine/N:abl glomerati/V:PTC:nom ,/PUN vastant/V:IND terras/N:acc Russie/ADJ et/CC Ruthenorum/ADJ principes/N:nom atque/CC exercitus/N:nom cum/PREP illis/DIMOS decernere/V:INF audentes/V:PTC:nom confligunt/V:IND ./SENT

@@ -1,0 +1,2 @@
+Boguphalus/N:nom Poznaniensis/ADJ episcopus/N:nom cum/PREP annis/N:abl duobus/ADJ:NUM sedisset/V:SUB ,/PUN senio/N:nom ,/PUN incertum/ADJ est/ESSE:IND ,/PUN confectus/V:PTC:nom an/CC morbo/N:abl ,/PUN fato/V:PTC:abl absumptus/V:PTC:nom et/CC in/PREP Poznaniensi/ADJ ecclesia/N:abl sepultus/V:PTC:nom est/ESSE:IND ./SENT
+Capitularibus/ADJ discordantibus/V:PTC:abl Pianus/ADJ Italus/N:nom nobilis/ADJ genere/N:abl ab/PREP Eugenio/N:abl papa/N:nom tercio/ADJ:NUM provisus/V:PTC:nom succedit/V:IND ./SENT

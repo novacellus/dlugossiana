@@ -1,0 +1,2 @@
+Gorno/N:gen ,/PUN lacus/N:acc terre/V:IMP Dobrinensis/ADJ ,/PUN amplitudine/N:abl et/CC fecunditate/N:abl piscium/N:gen insignis/ADJ ,/PUN episcopi/N:nom Ploczensis/N:gen ,/PUN a/PREP fluvio/N:abl irrigatus/V:PTC:nom ./SENT
+Item/ADV Mokowo/N:voc ,/PUN lacus/N:acc terre/V:IMP Dobrinensis/ADJ ,/PUN non/ADV longe/ADV ab/PREP opido/ADJ Dobrzin/N:acc situs/V:PTC:nom Item/ADJ Skapsko/N:gen ,/PUN lacus/N:acc terre/V:IMP Dobrinensis/ADJ ,/PUN non/ADV longe/ADV ab/PREP opido/ADJ:abl Lyppno/N:abl consistens/V:PTC:nom ./SENT

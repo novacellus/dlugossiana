@@ -1,0 +1,2 @@
+TEMPLARIORUM/N:nom ORDO/ADJ sub/PREP hoc/DIMOS tempore/N:abl cepit/V:IND ,/PUN qui/REL prius/ADJ:COM albis/ADJ:abl usi/V:PTC:nom sunt/ESSE:IND mantellis/N:dat ,/PUN post/PREP rubeam/ADJ crucem/N:acc superpositam/V:PTC:acc portarunt/V:IND ./SENT
+Cuius/REL primi/ADJ:NUM fundatores/N:nom fuerunt/ESSE:IND Hugo/N:nom et/CC Gamfredus/N:nom ,/PUN beatus/ADJ quoque/ADV Bernhardus/ADJ regulam/N:acc dicti/N:gen ordinis/N:gen fertur/V:IND composuisse/V:IND ./SENT

@@ -1,0 +1,1 @@
+Quatuor/V:IND annis/N:abl Honoldus/ADJ Wladislaviensi/N:dat ecclesia/N:abl potitus/V:PTC:nom moritur/V:IND et/CC in/PREP Wladislauiensi/N:abl ecclesia/N:abl sepelitur/V:IND ;/SENT cui/REL Rudgerus/ADJ vir/N:nom nacionis/N:gen Theutunice/ADJ succedit/V:IND ,/PUN per/PREP Alexandrum/N:acc papam/N:acc tercium/ADJ:NUM provisusye/V:IND ./SENT

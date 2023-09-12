@@ -1,0 +1,1 @@
+zimirus/ADJ Polonie/N:voc rex/N:nom magna/ADJ leticia/ADJ exultans/V:PTC:nom avitum/ADJ illi/DIMOS nomen/N:nom Boleslaus/N:nom in/PREP baptismo/N:abl imposuit/V:IND gaudiumque/N:acc de/PREP nativitate/N:abl filii/N:gen celebritate/N:abl dierum/N:gen sequencium/N:gen monstravit/V:IND ./SENT

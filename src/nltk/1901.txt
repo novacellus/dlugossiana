@@ -1,0 +1,3 @@
+JANUSSIUS/ADJ DUX/N:nom MASOVIE/N:gen DIE/N:gen mensis/N:nom Novembris/N:gen moritur/V:IND et/CC in/PREP ecclesia/N:abl collegiata/ADJ:abl Warszowiensi/N:abl ,/PUN quam/REL ipsemet/V:IND ex/PREP parrochiali/ADJ:abl in/PREP collegiatam/N:acc erexerat/V:IND et/CC certis/ADJ:abl proventibus/N:abl dotando/V:GER insigniverat/V:IND ,/PUN sepelitur/V:IND ./SENT
+Homo/N:nom inter/PREP sue/N:abl etatis/N:gen principes/N:nom sapientissimus/V:IND et/CC insignis/ADJ ,/PUN qui/REL iusta/N:nom faciendo/V:GER iudicia/N:nom terram/N:acc suam/POSS in/PREP optimam/ADJ:SUP reduxerat/V:IND culturam/N:acc ./SENT
+Adeo/ADV in/PREP gubernacione/N:abl terre/V:IMP sue/N:abl modestus/ADJ ,/PUN ut/CS speculum/N:nom ceterorum/ADJ nominaretur/V:SUB et/CC exemplar/N:nom ./SENT

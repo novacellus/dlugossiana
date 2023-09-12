@@ -1,0 +1,2 @@
+In/V:IND Napulia/N:acc tantus/ADJ terre/V:IMP tremor/N:nom sabbato/N:abl ante/PREP festum/ADJ sancti/ADJ Andree/N:voc Apostoli/N:gen accidit/V:IND ,/PUN ut/CS Rome/V:SUB audiretur/V:SUB et/CC plura/N:acc castra/N:acc et/CC castella/N:acc et/CC signanter/V:SUB civitas/N:nom Ascopolis/N:gen ruinarentur/V:SUB ./SENT
+Subversorum/V:PTC autem/ADV ex/PREP terre/V:IMP motu/N:abl castrorum/N:gen et/CC castellorum/N:gen loca/N:nom unde/ADV superingrediebantur/V:IND ./SENT

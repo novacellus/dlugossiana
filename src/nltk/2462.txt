@@ -1,0 +1,2 @@
+Quarta/ADJ Ianuarii/N:gen Semovitus/ADJ ,/PUN maior/ADJ:COM natu/N:abl Wladislai/N:gen Plocensis/N:gen et/CC Masovie/N:gen ducis/V:IND filius/N:nom ,/PUN in/PREP villa/N:abl et/CC curia/N:abl sua/POSS ducali/N:dat Sanniki/N:dat immatura/ADJ:abl morte/N:abl defunctus/V:PTC:nom ,/PUN in/PREP Plocensi/ADJ:abl ecclesia/N:abl sepelitur/V:IND ./SENT
+Sensere/V:IND nonnulli/N:nom ,/PUN falsene/N:voc an/CC vere/ADV ,/PUN illum/DIMOS fuisse/ESSE:INF veneno/N:abl sublatum/V:PTC:nom ./SENT

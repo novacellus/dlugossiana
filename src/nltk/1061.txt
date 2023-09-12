@@ -1,0 +1,4 @@
+Sexingenti/V:PTC Lithwani/N:loc equestres/ADJ terram/N:acc Prussie/ADJ ingressi/V:PTC:nom illam/DIMOS barbarica/ADJ vastabant/V:IND tirannide/N:dat ./SENT
+Contra/PREP quos/REL comendator/V:IND de/PREP Brandenburg/N:nom collecta/V:PTC:nom equestri/ADJ:abl et/CC pedestri/ADJ:abl suorum/POSS multitudine/N:abl egressus/V:PTC:nom aput/PREP Noctagensem/ADJ regionem/N:acc aliquamdiu/ADV latuit/V:IND ,/PUN Lithwanos/N:nom illuc/ADV advenientes/V:PTC:nom facilius/ADV ex/PREP improviso/ADJ:abl obtriturus/V:PTC:nom ./SENT
+Verum/ADJ Lithvanis/N:loc venire/V:INF tardantibus/V:PTC ,/PUN gentes/N:nom Cruciferice/N:voc ad/PREP propria/ADJ:abl dilabuntur/V:IND ./SENT
+Lithwani/N:voc interim/ADV superveniunt/V:IND et/CC Noctangenses/ADJ vastant/V:IND et/CC predantur/ADJ ,/PUN ducentos/ADJ:NUM quoque/ADV et/CC quinquaginta/ADJ:NUM de/PREP Christianis/N:abl aut/CC occidunt/V:IND aut/CC captivant/V:IND ./SENT

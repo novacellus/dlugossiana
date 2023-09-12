@@ -1,0 +1,4 @@
+Jordanus/N:nom primus/ADJ:NUM Poznaniensis/ADJ episcopus/N:nom ,/PUN cum/PREP annis/N:abl viginti/ADJ:NUM sex/ADJ:NUM sedisset/V:SUB ,/PUN moritur/V:IND et/CC in/PREP Brandenburg/N:nom sepelitur/V:IND ./SENT
+(/PUN Alii/PRON asserunt/V:IND illum/DIMOS in/PREP Poznaniensi/ADJ ecclesia/N:abl sepultum/V:PTC:acc )/PUN ./SENT
+In/PREP cuius/REL locum/N:acc Thimoteus/ADJ in/PREP Poznaniensem/ADJ episcopum/N:acc ordinatur/V:IND ./SENT
+Fuit/ESSE:IND autem/ADV Thimoteus/ADJ ipse/DET nacione/N:dat Romanus/ADJ ,/PUN nobilis/ADJ genere/N:abl ,/PUN per/PREP Benedictum/N:gen papam/N:acc septimum/ADJ:NUM provisus/V:IND ./SENT

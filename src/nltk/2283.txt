@@ -1,0 +1,4 @@
+Maxima/ADJ:SUP siccitas/N:nom universam/ADJ terrebat/V:IND Italiam/N:acc ,/PUN que/CC res/N:nom plures/ADJ mortales/ADJ febribus/N:abl debilitatos/V:PTC:acc absumpsit/V:IND ./SENT
+Accessit/V:IND omni/PRON siccitati/N:dat gravior/V:IND guerra/N:nom ,/PUN non/ADV quidem/ADV forinseca/N:abl sed/CC intestina/ADJ et/CC civilis/ADJ ./SENT
+Nam/CC Alphonsus/N:nom rex/N:nom Aragonum/N:gen ,/PUN facta/V:PTC:abl liga/N:abl cum/PREP Venetis/N:abl ,/PUN gravi/ADJ:abl bello/N:abl premebat/V:IND Florentinos/N:acc ,/PUN Florentini/N:voc vero/ADV ,/PUN facta/V:PTC:abl liga/N:abl cum/PREP Francisco/NPR duce/N:abl Mediolanensi/N:loc et/CC lanuensi/N:loc ,/PUN resistebant/V:IND ./SENT
+Propter/PREP quod/REL universa/ADJ Italia/N:nom premebatur/V:IND bellis/N:abl nec/CC a/PREP longo/ADJ:abl tempore/N:abl memoratur/V:IND Italia/N:abl tot/ADJ:NUM et/CC tantis/ADJ:abl bellis/N:abl collisa/V:PTC:nom esse/ESSE:INF ./SENT

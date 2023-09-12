@@ -1,0 +1,2 @@
+Mulier/V:SUB quedam/PRON Rome/V:IND septem/ADJ:NUM filios/N:acc peperit/V:IND uno/ADJ:NUM partu/N:abl ./SENT
+Quorum/REL cum/PREP duo/ADJ:NUM mortui/V:PTC:nom essent/ESSE:SUB ,/PUN quinque/ADJ:NUM tamen/ADV superstites/ADJ vivebant/V:IND et/CC nutriebantur/V:IND resque/V:IND ipsa/DET et/CC multiplicacio/ADJ fetus/N:acc in/PREP admiracionem/N:acc et/CC ,/PUN ut/CS vulgo/ADV aiunt/V:IND ,/PUN in/PREP religionem/N:acc veniebat/V:IND ./SENT

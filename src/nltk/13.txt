@@ -1,0 +1,22 @@
+Septimus/ADJ Polonicalium/N:gen et/CC Ruthenicalium/ADJ regionum/N:gen fluvius/N:nom Dnyepr/N:nom ,/PUN vocatus/V:PTC:nom a/PREP Latinis/N:abl Drinus/N:nom alias/PRON Borzisthenes/N:acc ,/PUN circa/PREP Kyow/ADJ urbem/N:acc metropolim/N:acc Russie/ADJ currens/V:IND ,/PUN hos/DIMOS autem/ADV fluvios/N:acc habet/V:IND cadentes/V:PTC:nom in/PREP se/PRON ,/PUN qui/REL in/PREP Thartarico/N:acc vocatur/V:IND Erzesze/ADJ ./SENT
+Primo/ADV Przypyecz/ADJ ,/PUN cuius/REL fons/N:nom non/ADV longe/ADV a/PREP castro/N:abl Lubomlya/N:nom in/PREP villa/N:abl Holowno/V:IND ,/PUN hostia/N:nom inferius/ADJ:COM castrum/N:acc Czarnobile/ADJ circa/PREP villam/N:acc Poohost/V:IND ./SENT
+Item/ADV Styr/N:nom cuius/REL fons/N:nom in/PREP palude/N:abl supra/PREP Oleszko/N:abl in/PREP villa/N:abl Yeszonow/ADJ ,/PUN hostia/N:nom in/PREP fluvium/N:acc Przipyecz/ADJ non/ADV longe/ADV a/PREP Pinsko/N:abl ./SENT
+Item/ADV Maior/ADJ:COM Slucz/ADJ ,/PUN cuius/REL fons/N:nom circa/PREP villam/N:acc Choyewycze/ADJ ,/PUN hostia/N:nom in/PREP fluvium/N:acc Przypecz/ADJ inferius/ADJ:COM opidum/N:gen Thurow/ADJ ./SENT
+Item/ADV Minor/N:nom Slucz/ADJ ,/PUN cuius/REL fons/N:nom circa/PREP opidum/ADJ et/CC castrum/N:acc Coszmin/N:gen ,/PUN hostia/N:nom in/PREP fluvium/N:acc Przypyecz/ADJ circa/PREP Grodek/ADJ ./SENT
+Item/ADV Czetrzew/N:nom ,/PUN cuius/REL fons/N:nom circa/PREP castrum/N:acc et/CC opidum/ADJ Czudnow/N:nom ,/PUN hostia/N:nom in/PREP fluvium/N:acc Przypyecz/ADJ circa/PREP villam/N:acc Munuczkowicze/ADJ ./SENT
+Item/ADV Slunew/ADJ ,/PUN cuius/REL fons/N:nom ex/PREP paludibus/N:abl ville/N:voc Szathigyow/ADJ ,/PUN hostia/N:nom in/PREP Styr/ADJ:abl inferius/ADJ:COM Luczko/N:dat infra/ADV civitatem/N:nom ./SENT
+Item/ADV Rosz/N:nom ,/PUN cuius/REL fons/N:nom ex/PREP paludibus/N:abl prope/ADV Szmolnyany/ADJ opidum/V:IND ,/PUN hostia/N:nom circa/PREP castrum/N:acc et/CC opidum/ADJ Orsza/N:nom in/PREP Dnyepr/N:nom ./SENT
+Item/ADV Jaszolda/ADJ ,/PUN cuius/REL fons/N:nom circa/PREP Kopilow/ADJ opidum/V:IND ,/PUN hostia/N:nom in/PREP Przypyecz/ADJ ,/PUN infra/ADV opidum/ADJ Pinsko/N:dat ./SENT
+Item/ADV Brzeszina/N:voc ,/PUN cuius/REL fons/N:nom ex/PREP paludibus/N:abl et/CC desertis/ADJ:abl Russie/ADJ Maioris/ADJ:COM prope/ADV opidum/ADJ Poloczsko/N:dat ,/PUN hostia/N:nom in/PREP Dnyepr/N:nom prope/ADV opidum/ADJ appellatum/N:acc Bobrugyska/N:acc ;/SENT hic/DIMOS fluvius/N:nom Brzezina/N:abl Lithwaniam/N:acc a/PREP terris/N:abl Russie/N:gen dividit/V:IND ./SENT
+Item/ADV Swyslocz/ADJ ,/PUN cuius/REL fons/N:nom circa/PREP villam/N:acc Porosthow/ADJ in/PREP superiori/ADJ:COM parte/N:abl ,/PUN hostia/N:nom in/PREP Breszina/N:abl circa/PREP opidum/ADJ Borzyschow/N:nom ./SENT
+Item/ADV Swyna/ADJ ,/PUN cuius/REL fons/N:nom ex/PREP lacu/N:abl Wloszka/N:gen ,/PUN hostia/N:nom in/PREP mare/N:acc prope/ADV Rygam/ADJ ./SENT
+Item/ADV Polotha/N:nom ,/PUN a/PREP quo/REL civitas/N:nom et/CC regio/N:nom Poloczensis/N:gen appellatur/V:IND ,/PUN cuius/REL fons/N:nom prope/ADV castrum/N:nom Krewa/V:IND hostia/N:nom in/PREP fluvium/N:acc Dwyna/N:nom iuxta/PREP castrum/N:acc Poloczsko/N:acc ./SENT
+Item/ADV Bog/N:nom cuius/REL fons/N:nom ex/PREP superiori/ADJ:COM parte/N:abl silvae/N:nom Oleszko/N:gen ,/PUN hostia/N:nom in/PREP Dnyepr/N:nom circa/PREP castrum/N:acc et/CC opidum/ADJ Daschow/N:nom ./SENT
+Item/ADV Wyzew/N:voc ,/PUN cuius/REL fons/N:nom in/PREP villa/N:abl Nowoszedlcze/ADJ ,/PUN hostia/N:nom inferius/ADJ:COM castrum/N:acc Rathno/N:dat in/PREP Przypyecz/ADJ ./SENT
+Item/ADV Lutha/N:voc ,/PUN cuius/REL fons/N:nom circa/PREP villam/N:acc Tremno/N:dat ,/PUN hostia/N:nom in/PREP Wyschew/N:abl non/ADV longe/ADV a/PREP Rathno/N:abl ./SENT
+Item/ADV Bereszyna/N:acc ,/PUN cuius/REL fons/N:nom circa/PREP opidum/ADJ Vborcz/N:nom ,/PUN hostia/N:nom circa/PREP opidum/ADJ Strzeszno/N:abl ./SENT
+Item/ADV Brzesznicza/N:voc ,/PUN fluvius/N:nom terram/N:acc Luczensem/ADJ distinguens/V:PTC:nom a/PREP Lithwanis/N:abl ;/SENT et/CC ille/DIMOS est/ESSE:IND verus/ADJ limes/N:voc Regni/N:loc Polonie/N:voc ./SENT
+Item/ADV Orsza/N:nom cuius/REL fons/N:nom ,/PUN hostia/N:nom in/PREP Dnyepr/N:nom circa/ADV ./SENT
+Item/ADV Bobr/N:nom cuius/REL ortus/V:PTC:nom hostia/N:nom in/PREP Dnyepr/N:nom circa/ADV ./SENT
+Item/ADV Borzischow/N:nom ,/PUN cuius/REL fons/N:nom circa/ADV ,/PUN hostia/N:nom ./SENT
+Item/ADV Orinya/N:nom ,/PUN cuius/REL ortus/V:PTC:nom circa/PREP opidum/ADJ Dambrowicza/N:acc ,/PUN hostia/N:nom in/PREP fluvium/N:acc Styr/ADJ ./SENT

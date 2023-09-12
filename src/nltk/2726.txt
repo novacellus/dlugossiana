@@ -1,0 +1,3 @@
+Dic/N:nom Saturni/ADJ tredecima/ADJ Iunii/ADJ Clemens/N:gen episcopus/N:nom Kyowiensis/ADJ ,/PUN aput/PREP Kyowiam/V:SUB omnibus/PRON Sacramentis/ADJ religiose/ADV procuratus/V:PTC:nom ,/PUN annis/N:abl viginti/ADJ:NUM duobus/ADJ:NUM in/PREP pontificatu/N:abl exactis/V:PTC:abl moritur/V:IND et/CC in/PREP ecclesia/N:abl Kyowiensi/ADJ:abl sepelitur/V:IND ./SENT
+Vir/N:nom quidem/ADV obscuri/ADJ et/CC plebei/N:gen generis/N:gen sed/CC note/ADJ probitatis/N:gen ./SENT
+Cui/REL successit/V:IND Albertus/N:acc Narbuthowicz/NPR ,/PUN nacione/N:loc Lithuanus/N:nom de/PREP domo/N:abl Bipennium/N:gen ./SENT

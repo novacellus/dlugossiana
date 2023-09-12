@@ -1,0 +1,2 @@
+EFFUDIT/NPR et/CC hoc/DIMOS anno/N:abl consors/N:nom Myeczslaui/V:IND Maioris/ADJ:COM Polonie/N:voc et/CC Pomeranie/ADJ ducis/V:IND ducissa/N:nom Gertrudis/NPR alterum/ADJ infantem/N:acc ,/PUN cui/REL matre/N:abl obsecrante/V:PTC:abl Stephanus/N:gen nomen/N:nom inditum/V:PTC:nom est/ESSE:IND ;/SENT in/PREP Hungarie/ADJ enim/ADV Regno/N:dat Stephanus/N:gen rex/N:nom suus/POSS nepos/N:nom ex/PREP fratre/N:abl germanus/ADJ principabatur/V:IND ./SENT
+Nec/CC multo/ADV post/PREP diem/N:acc puerpera/ADJ obiit/V:IND ./SENT

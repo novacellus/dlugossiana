@@ -1,0 +1,2 @@
+Baptista/N:voc primus/ADJ:NUM Crusszvicziensis/N:gen sive/CC Wladislauiensis/N:gen episcopus/N:nom ,/PUN annis/N:abl quindecim/ADJ:NUM functus/V:PTC:nom pontificali/ADJ:abl officio/N:abl ,/PUN rebus/N:abl eximitur/V:IND humanis/ADJ:abl et/CC in/PREP Crusszviczensi/N:abl ecclesia/N:abl sepelitur/V:IND ./SENT
+Cui/REL Paulinus/N:nom primus/ADJ:NUM ,/PUN nacione/N:loc Italus/N:nom ,/PUN ab/PREP Vrbano/N:abl papa/N:nom secundo/ADJ:NUM suffectus/V:PTC:nom est/V:IND ./SENT

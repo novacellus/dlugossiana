@@ -1,0 +1,1 @@
+Rachelinus/NPR Cracowiensis/N:voc archiepiscopus/N:nom ,/PUN dum/CS in/PREP archiepiscopio/N:abl Cracouiensi/N:abl annos/N:acc quatuordecim/ADJ:NUM exegisset/V:SUB ,/PUN religiose/ADV moritur/V:IND et/CC in/PREP ecclesia/N:abl Cracouiensi/N:dat iusto/ADJ honore/N:abl funeri/N:dat soluto/V:PTC:abl accipit/V:IND sepulturam/N:acc ./SENT

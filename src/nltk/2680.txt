@@ -1,0 +1,2 @@
+Anno/N:dat eo/DET absumptus/V:PTC:nom cst/V:IND Matthias/N:acc Mycdnicensis/ADJ "/PUN alias/PRON Samagittic/NPR episcopus/N:nom vicesima/ADJ:NUM quarta/ADJ:NUM ?/SENT Aprilis/ADJ dic/V:IMP et/CC in/PREP Mycdnicensi/ADJ:abl ecclesia/N:abl sepultus/V:PTC:nom ,/PUN cum/PREP annis/N:abl viginti/ADJ:NUM in/PREP ca/V:GED sedissct99/V:SUB ./SENT
+Successit/V:IND autem/ADV in/PREP Myednicensem/ADJ Bartholomeus/N:nom Swirenkowicz/ADJ genere/N:abl Lithuanus/N:nom ,/PUN originarius/ADJ quidem/ADV et/CC plebei/N:dat generis/N:gen homo/N:nom sed/CC virtuosus/ADJ ./SENT

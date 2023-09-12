@@ -1,0 +1,7 @@
+Profanis/N:gen religionibus/N:abl Wladimirus/N:nom Russie/ADJ dux/N:nom perfunctus/V:PTC:nom ad/PREP arma/N:acc animum/N:acc intendit/V:IND ducique/V:INF Polonie/N:voc Myeczszlawo/N:gen et/CC Polonis/N:gen bellum/N:acc primum/ADV movet/V:IND ,/PUN quod/REL vario/ADJ:abl Marte/N:abl gestum/V:PTC:nom est/ESSE:IND nunc/ADV Polono/N:dat ,/PUN interdum/ADV vero/ADV Rutheno/ADJ triumphos/N:acc retinente/V:PTC:abl ./SENT
+Expugnat/V:IND autem/ADV Wladimirus/N:nom Russie/ADJ dux/N:nom castra/N:acc Polonorum/N:gen ,/PUN videlicet/ADV Przemysl/V:IND ,/PUN Czyrwyen/N:acc ,/PUN et/CC alia/PRON expugnata/V:PTC:nom occupat/V:IND presidioque/ADJ forti/ADJ militum/N:gen imposito/V:PTC ,/PUN sue/N:abl et/CC Ruthenorum/ADJ subiicit/V:IND et/CC adiicit/V:IND dicioni/N:dat ./SENT
+Vadit/V:IND deinde/ADV contra/PREP Radimycze/N:abl ,/PUN qui/REL et/CC ipsi/DET a/PREP Polonis/N:acc descendunt/V:IND ,/PUN et/CC victis/V:PTC tributum/N:acc imponit/V:IND ./SENT
+Idem/DET facit/V:IND et/CC Radimyczysz/N:nom ./SENT
+Summo/ADJ:abl pontificio/ADJ Leo/N:nom octavvs/ADJ:NUM beneficio/N:abl Otthonis/N:gen imperatoris/N:gen primi/ADJ:NUM resumpto/V:PTC:abl constituit/V:IND ,/PUN ut/CS nullus/ADJ sine/PREP consensu/N:abl imperatoris/N:gen assumeretur/V:SUB in/PREP papam/N:acc ./SENT
+Dum/CS autem/ADV post/PREP resumpcionem/N:acc papatus/ADJ sedisset/V:SUB annum/N:acc unum/ADJ:NUM et/CC menses/N:acc quatuor/ADJ:NUM ,/PUN moritur/V:IND ./SENT
+Cui/REL Johannes/N:nom tredecimus/V:IND ,/PUN nacione/N:loc Narniensis/N:gen succedit/V:IND ./SENT

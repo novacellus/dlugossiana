@@ -1,0 +1,1 @@
+TERCIUS/N:nom filius/N:nom Kazimiri/N:gen Polonie/N:voc regis/N:gen ex/PREP Dobrognyewa/ADJ alias/PRON Maria/N:voc Polonie/N:voc regina/N:nom natus/V:PTC:nom est/ESSE:IND ,/PUN cui/REL mandato/N:abl paterno/ADJ:abl avitum/ADJ nomen/N:nom Myeszko/N:gen datum/V:PTC:nom est/ESSE:IND in/PREP baptismo/N:abl alias/PRON Myeczslauus/V:IND

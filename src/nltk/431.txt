@@ -1,0 +1,2 @@
+Metropolitanus/N:nom ecclesie/ADJ Polonice/ADJ Martinus/N:nom primus/ADJ:NUM Gneznensis/ADJ pontifex/N:nom ,/PUN dum/CS annos/N:acc sex/ADJ:NUM et/CC viginti/ADJ:NUM sedisset/V:SUB ,/PUN moritur/V:IND et/CC in/PREP ecclesia/N:abl Gnesnensi/ADJ:abl tumulatur/V:IND ./SENT
+In/PREP cuius/REL locum/N:acc lacobus/ADJ primus/ADJ:NUM ,/PUN ex/PREP opido/ADJ:abl Zneyna/N:abl et/CC parentibus/N:abl consularibus/ADJ:abl ortus/V:PTC:nom ,/PUN per/PREP Calixtum/N:acc papam/N:acc secundum/ADJ:NUM suffectus/V:PTC:nom est/V:IND ./SENT

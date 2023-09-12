@@ -1,0 +1,3 @@
+PRODIGIUM/N:gen eo/DET anno/N:abl in/PREP Polonie/NPR regione/N:abl frequencius/ADJ visum/N:acc nunciatum/V:PTC:nom est/ESSE:IND ./SENT
+Duo/ADJ:NUM enim/ADV exercitus/N:nom armati/ADJ et/CC equestres/ADJ aciebus/N:abl hostilibus/ADJ:abl et/CC infestis/ADJ:abl inter/PREP se/PRON in/PREP aere/N:abl et/CC nubibus/N:abl concurrere/V:INF et/CC durum/ADJ certamen/N:nom gerere/V:INF conspecti/V:PTC:nom sunt/ESSE:IND ./SENT
+Quod/REL ne/ADV perniciem/N:acc rei/N:gen publice/ADV Polonorum/N:gen portenderet/V:SUB ,/PUN a/PREP devotis/ADJ:abl et/CC religiosis/ADJ:abl viris/N:dat Deo/N:dat Omnipotenti/N:gen supplicaciones/N:acc et/CC obsecraciones/N:acc habite/V:PTC sunt/ESSE:IND ./SENT

@@ -1,0 +1,2 @@
+Opidum/ADJ Lublin/N:gen feria/N:nom quarta/ADJ:NUM post/PREP sancti/ADJ Michaelis/N:nom ,/PUN opidum/ADJ vero/ADV Zneyno/ADJ feria/N:nom sexta/ADJ:NUM post/PREP festum/N:acc sancte/ADJ Hedvigis/NPR casibus/N:abl fortuitis/ADJ:abl adeo/ADV igne/N:abl consumpta/V:PTC:nom sunt/ESSE:IND ,/PUN ut/CS nec/CC aliqua/PRON domus/N:nom in/PREP illis/DIMOS salva/ADJ remaneret/V:SUB ./SENT
+Arserunt/V:IND et/CC anno/N:abl eodem/DET Bochnya/N:acc ,/PUN Xansch/V:INF ,/PUN Siradia/N:voc sed/CC in/PREP aliqua/PRON sui/POSS parte/N:abl ./SENT

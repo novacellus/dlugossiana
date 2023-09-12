@@ -1,0 +1,4 @@
+SIGISMUNDUS/ADJ Romanorum/ADJ imperator/N:voc dissidio/N:abl ,/PUN quod/REL inter/PREP Eugenium/N:gen papam/N:acc et/CC patres/N:acc concilii/N:gen exortum/V:PTC:nom erat/ESSE:IND ,/PUN sedato/V:PTC:abl ,/PUN de/PREP Basilea/N:abl egressus/V:PTC:nom ,/PUN legatos/N:acc Bohemiam/N:acc mittens/V:PTC:nom ,/PUN comendat/V:SUB regni/N:gen proceres/N:acc ,/PUN quod/REL colluvionem/N:acc hominum/N:gen scelestorum/ADJ deleverint/V:IND ./SENT
+Hortatur/V:IND ,/PUN ut/CS pace/N:abl regni/N:gen procurata/V:PTC:nom se/PRON regem/N:acc suscipiant/V:SUB ./SENT
+Illi/DIMOS frequenti/ADJ:abl numero/N:abl aput/PREP Ratisponam/N:acc eum/DET conveniunt/V:IND et/CC regem/N:acc salutant/V:IND ./SENT
+Exinde/ADV poscentibus/V:PTC:abl Hungaris/V:IND Budam/N:acc navigio/N:abl venit/V:IND et/CC rebus/N:abl Hungarie/ADJ vacavit/V:IND ./SENT

@@ -1,0 +1,5 @@
+WOLODOMIR/N:nom ,/PUN Dauid/NPR et/CC Oleh/V:IND Russie/ADJ duces/N:acc Kyowiensem/V:SUB ducatum/N:acc vastaturi/V:PTC:nom copias/N:acc in/PREP campum/N:acc eduxerant/V:IND ./SENT
+Quibus/REL stativa/ADJ aput/PREP Harodecz/NPR agentibus/ADJ:abl Swanthopelkus/ADJ Kyowiensis/ADJ dux/N:nom occurrit/V:IND ,/PUN fortunam/N:acc belli/N:gen temptaturus/V:PTC:nom ./SENT
+Communibus/ADJ tandem/ADV baronibus/N:abl agentibus/ADJ:abl de/PREP pace/N:abl inter/PREP duces/N:acc actum/V:PTC:nom est/ESSE:IND ;/SENT qua/REL equis/N:abl condicionibus/N:abl confecta/V:PTC:nom unusquisque/PRON in/PREP propria/ADJ:abl rediit/V:IND in/PREP pace/ADJ:NUM ./SENT
+Quarta/ADJ Octobris/ADJ cometes/N:nom in/PREP occidentem/V:PTC:acc facem/N:acc porrigens/V:PTC:acc apparuit/V:IND ./SENT
+Nimia/ADJ aquarum/N:gen inundacione/N:abl autumpnalis/ADJ sacio/ADJ impeditur/V:IND ,/PUN que/CC sterilitatem/N:acc frugum/N:gen induxit/V:IND ./SENT

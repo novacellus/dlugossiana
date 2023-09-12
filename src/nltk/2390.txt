@@ -1,0 +1,1 @@
+Die/N:acc Mercurii/N:gen ,/PUN vicesima/ADJ:NUM prima/ADJ:NUM Septembris/N:gen completorii/N:gen hora/N:nom Elisabeth/NPR Polonie/N:voc iunior/ADJ:COM regina/N:nom aput/PREP Cracoviam/N:acc agens/ADJ femineam/ADJ prolem/N:acc parturit/V:IND ,/PUN que/CC in/PREP baptismo/N:abl in/PREP Cracoviensi/N:abl ecclesia/N:abl suscepto/V:PTC:abl Hedvigis/NPR nomen/N:acc accepit/V:IND ./SENT

@@ -1,0 +1,3 @@
+Nobel/N:acc ,/PUN lacus/N:acc magnus/ADJ terre/V:IMP Russye/N:dat in/PREP districtu/V:SUP:abl Pinsko/N:abl consistens/V:PTC:nom ,/PUN quem/REL fluvius/N:nom Przypecz/ADJ rigat/V:IND et/CC fecundum/V:GED efficit/V:IND in/PREP piscibus/N:abl ./SENT
+Item/ADV Olbyasch/V:IND ,/PUN lacus/N:acc magnus/ADJ terre/V:IMP Russie/ADJ in/PREP districtu/V:SUP:abl Pinsko/N:abl consistens/V:PTC:nom ,/PUN quem/REL idem/DET fluvius/N:nom Przipecz/ADJ undis/N:abl et/CC piscibus/N:abl locupletat/V:IND ./SENT
+Item/ADV Orzechow/N:nom ,/PUN lacus/N:acc magnus/ADJ terre/V:IMP Russie/ADJ in/PREP districtu/V:SUP:abl Bresthensi/N:abl ,/PUN alius/PRON a/PREP priori/ADJ:COM ,/PUN qui/REL et/CC ipse/DET a/PREP fluvio/N:abl Krzna/ADJ piscibus/N:abl valde/ADV fecundo/ADJ:abl irrigatur/V:IND ./SENT

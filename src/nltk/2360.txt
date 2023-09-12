@@ -1,0 +1,2 @@
+Tercia/N:acc Octobris/N:gen monasteria/N:acc fratrum/N:gen Minorum/ADJ sancti/ADJ Francisci/NPR de/PREP observancia/ADJ in/PREP Posnania/ADJ ,/PUN Koszthean/N:acc ,/PUN Wschowa/N:acc et/CC Kobilino/V:IND per/PREP consulatus/N:acc et/CC cives/N:nom earundem/DET civitatum/N:gen fundata/V:PTC:nom sunt/ESSE:IND et/CC sub/PREP brevi/ADJ:abl tempore/N:abl muris/N:gen instaurata/V:PTC:nom atque/CC edificiis/ADJ ./SENT
+Aput/PREP Posnaniam/N:acc extra/PREP muros/N:acc supra/PREP fluvium/N:acc Wartham/N:acc sub/PREP titulo/N:abl et/CC honore/N:abl sancti/ADJ Bernardini/N:gen ./SENT

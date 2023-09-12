@@ -1,0 +1,2 @@
+Boleslaus/N:nom dux/N:nom Maszovie/ADJ et/CC Russie/ADJ ,/PUN filius/N:nom ducis/V:IND Troydeni/ADJ:NUM Maszouie/ADJ ,/PUN uxoratur/V:IND et/CC accipit/V:IND in/PREP uxorem/N:acc filiam/N:acc Gedimini/N:gen ducis/V:IND Lithvanie/ADJ ,/PUN gentilem/N:acc et/CC barbaram/N:acc ./SENT
+Qua/REL fonte/N:abl baptismatis/N:gen a/PREP sordibus/N:abl idolorum/N:gen abluta/V:PTC:nom ,/PUN nupcie/ADJ ex/PREP more/N:abl aput/PREP Ploczskam/N:acc celebrantur/V:IND ./SENT

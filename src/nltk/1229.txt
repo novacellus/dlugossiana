@@ -1,0 +1,1 @@
+HEDVIGIS/V:IND Polonie/N:voc olim/ADV regina/N:nom ,/PUN relicta/V:PTC:abl Wladislai/N:gen Loktek/N:nom et/CC genitrix/N:nom Kazimiri/N:gen secundi/ADJ:NUM Polonie/N:voc regum/N:gen moritur/V:IND et/CC in/PREP Sandeczensi/N:dat monasterio/N:abl tumulatur/V:IND ,/PUN Kazimiro/N:voc rege/N:abl iusta/ADJ funeri/N:dat suo/POSS magnifico/ADJ:abl sumptu/N:abl persolvente/V:IND ./SENT

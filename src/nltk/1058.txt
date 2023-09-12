@@ -1,0 +1,1 @@
+SEXTO/ADJ DECIMO/ADJ:NUM Kalendas/N:acc Marcii/ADJ Wladislaus/N:nom dictus/V:PTC:nom Loktek/N:nom dux/N:nom Regni/N:gen Polonie/ADJ et/CC Pomeranie/ADJ fundat/V:IND monasterium/N:acc fratrum/N:gen Minorum/ADJ in/PREP Radzeyow/N:abl in/PREP diocesi/N:abl Wladislaviensi/N:acc ./SENT

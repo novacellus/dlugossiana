@@ -1,0 +1,11 @@
+Sextus/ADJ Polonicalium/N:gen et/CC Ruthenicalium/ADJ regionum/N:gen fluvius/N:nom Nyemen/N:acc "/PUN "/PUN ,/PUN qui/REL a/PREP Latinis/N:abl Tvruntius/N:nom inscribitur/V:IND )/PUN !/SENT ,/PUN variis/ADJ ,/PUN ut/CS supra/ADV diximus/V:IND ,/PUN incurvatus/V:PTC:nom fluxibus/N:dat hos/DIMOS accipit/V:IND amnes/N:acc ./SENT
+Primus/ADJ:NUM Merecz/N:nom ,/PUN cuius/REL fons/N:nom circa/PREP villam/N:acc Grvszdowo/N:gen ,/PUN hostia/N:nom circa/PREP opidum/ADJ Merecz/N:nom ./SENT
+Item/ADV Vilia/N:voc ,/PUN cuius/REL fons/N:nom circa/PREP villam/N:acc Kamyen/N:acc ,/PUN hostia/N:nom circa/PREP opidum/ADJ Kowno/V:IND ./SENT
+Item/ADV Wyslucz/N:voc ,/PUN cuius/REL fons/N:nom circa/PREP opidum/ADJ Mohilno/N:abl ,/PUN hostia/N:nom circa/PREP curiam/N:acc et/CC villam/N:acc Dubno/N:dat ./SENT
+Item/ADV Swyatha/N:abl ex/PREP Samagitia/N:acc ,/PUN cuius/REL fons/N:nom prope/ADV Wolkomiriam/N:acc in/PREP villa/N:abl Remigola/N:nom ,/PUN hostia/N:nom circa/PREP Mariewerder/N:abl ,/PUN et/CC hic/ADV dividit/V:IND Lythwaniam/N:acc et/CC Samagittiam/N:acc ./SENT
+Item/ADV Nyewasza/N:voc ,/PUN cuius/REL fons/N:nom circa/PREP opidum/ADJ Kyedany/ADJ ,/PUN hostia/N:nom infra/ADV opidum/ADJ Kowno/V:IND et/CC circa/PREP villam/N:acc Wylkya/N:acc ./SENT
+Item/ADV Wylna/N:voc ,/PUN cuius/REL fons/N:nom circa/PREP villam/N:acc Lawarzysky/NPR ,/PUN hostia/N:nom in/PREP Viliam/N:acc infra/ADV civitatem/N:acc Wylno/N:dat ./SENT
+Item/ADV Myedniky/ADJ ,/PUN cuius/REL fons/N:nom ,/PUN prope/ADV Szoczawam/ADJ opidum/N:gen ,/PUN hostia/N:nom in/PREP Nyemen/N:acc prope/ADV Kowno/V:IND ./SENT
+Item/ADV Merecz/N:nom ,/PUN cuius/REL fons/N:nom prope/ADV villam/N:acc Solyecznik/N:nom ,/PUN hostia/N:nom in/PREP Nyemen/N:acc iuxta/PREP opidum/ADJ Merecz/N:acc ./SENT
+Item/ADV Bereszina/N:voc ,/PUN cuius/REL fons/N:nom circa/PREP villam/N:acc Swyatham/ADJ ,/PUN hostia/N:nom in/PREP Viliam/N:acc circa/PREP opidum/ADJ Nyewyeniszani/N:gen ./SENT
+Item/ADV Kothra/N:voc ,/PUN cuius/REL fons/N:nom ex/PREP lacubus/N:abl Gerschani/N:gen ,/PUN hostia/N:nom circa/PREP villam/N:acc Myeczniky/ADJ ./SENT

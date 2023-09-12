@@ -1,0 +1,2 @@
+DECIMA/ADJ:NUM NONA/N:acc Octobris/N:gen in/PREP castro/N:abl Marienburg/N:nom Vernerus/ADJ de/PREP Orszla/N:abl Prussie/ADJ magister/N:nom ab/PREP uno/ADJ:NUM suorum/POSS fratrum/N:gen Cruciferorum/N:gen Iohanne/N:abl de/PREP Gindorff/NPR in/PREP cenaculo/N:abl multis/ADJ:abl vulneribus/N:abl confossus/V:PTC:nom interiit/V:IND et/CC penas/N:acc occupate/V:IMP Pomeranice/ADJ terre/V:IMP dedit/V:IND ./SENT
+In/PREP cuius/REL locum/N:acc Lutherus/N:nom de/PREP Brunszwig/N:acc successit/V:IND ./SENT

@@ -1,0 +1,4 @@
+Monrvo/V:IND Manegoldo/N:dat Cruciferorum/N:gen magistro/N:abl Burgardus/N:nom de/PREP Swanden/ADJ surrogatur/V:SUB ./SENT
+Qui/REL illius/DIMOS probitatis/N:gen extitit/V:IND ,/PUN ut/CS etiam/CC civitati/N:dat Accon/N:acc in/PREP Terra/N:abl Sancta/ADJ diuturna/ADJ:abl obsessione/N:abl Saracenica/ADJ:abl laboranti/V:PTC:abl ,/PUN depulsis/V:PTC:abl barbaris/N:abl succurreret/V:SUB ./SENT
+Post/V:IND paucos/ADJ vero/ADV dies/N:voc de/PREP officio/N:abl ,/PUN fratribus/N:abl nequicquam/ADV flexis/V:PTC:abl genibus/N:abl rogantibus/V:PTC:abl cedit/V:IND et/CC Iohannitarum/N:gen ordinem/N:acc assumit/V:IND ,/PUN in/PREP quo/REL parum/ADV provide/ADJ et/CC graviter/ADV habitus/N:nom ,/PUN officium/N:acc in/PREP Prussia/N:abl repetere/V:INF conatus/N:acc ,/PUN repulsam/N:acc passus/V:PTC:nom est/ESSE:IND ./SENT
+In/PREP cuius/REL locum/N:acc Memor/ADJ de/PREP Querinworth/ADJ:abl nacione/N:loc Saxo/FW substituitur/V:IND ./SENT

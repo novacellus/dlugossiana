@@ -1,0 +1,4 @@
+PRODIGIUM/N:acc eo/DET anno/N:abl nunciatum/V:PTC:acc multos/ADJ pavore/N:abl nimio/ADJ:abl concussit/V:IND ./SENT
+Aput/PREP Cracowiensem/N:acc siquidem/CS urbem/N:acc puer/N:nom vix/ADV semestris/ADJ in/PREP vocem/N:acc articulatam/V:PTC:acc prorumpens/V:PTC:nom ,/PUN Thartaros/N:acc superventuros/V:PTC:acc et/CC Polonorum/N:gen capita/N:acc precisuros/V:PTC:acc predixit/V:IND ./SENT
+Quesitus/V:PTC:nom ab/PREP astantibus/V:PTC:abl ,/PUN unde/ADV id/DET nosset/V:SUB ,/PUN Divino/N:dat oraculo/N:dat se/PRON fretum/N:acc ista/DIMOS nosse/V:INF respondit/V:IND ./SENT
+Interrogatus/V:PTC:nom deinde/ADV ,/PUN an/CC et/CC ipse/DET Thartarorum/N:gen adventum/N:acc pertimesceret/V:SUB ,/PUN quam/REL maxime/ADJ:SUP se/PRON timere/V:INF adiecit/V:IND ,/PUN cum/PREP etiam/CC inter/PREP alios/ADJ suam/POSS forent/ESSE:SUB cervicem/N:acc precisuri/V:PTC ./SENT

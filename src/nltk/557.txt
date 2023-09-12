@@ -1,0 +1,2 @@
+Wernerus/N:nom Wladislaviensis/N:gen episcopus/N:nom pontificatu/N:abl annis/N:abl septem/ADJ:NUM administrato/V:PTC:abl ex/PREP humanis/ADJ:abl absumitur/V:IND et/CC in/PREP ecclesia/N:abl Wladislaviensi/N:abl accepit/V:IND sepulturam/N:acc ./SENT
+Cui/REL Wnelphus/N:nom decanus/N:nom Wladislaviensis/N:gen per/PREP eleccionem/N:acc canonicam/ADJ succedit/V:IND ,/PUN ab/PREP Alexandro/N:abl tercio/ADJ:NUM ,/PUN petente/V:PTC:abl Kazimiro/N:voc Polonie/N:voc duce/N:abl et/CC monarcha/N:abl ,/PUN provisus/V:IND ./SENT

@@ -1,0 +1,2 @@
+QUARTO/ADJ Nonas/N:acc Iunii/ADJ in/PREP Penthecostes/N:acc festo/ADJ Dominico/N:abl die/N:acc Wenczeslaus/N:nom Bohemie/ADJ dux/N:nom se/PRON in/PREP regem/N:acc et/CC coniugem/N:acc suam/POSS Iuttham/N:acc in/PREP reginam/N:acc in/PREP Pragensi/ADJ:abl ecclesia/N:abl per/PREP Maydburgensem/ADJ archiepiscopum/N:acc procuravit/V:IND coronari/V:INF et/CC extunc/V:IMP se/PRON regem/N:acc Bohemie/ADJ gerere/V:INF cepit/V:IND ./SENT
+Post/PREP triduum/N:acc vero/ADV nova/ADJ regina/N:nom ,/PUN sed/CC vetus/ADJ coniunx/N:voc Iutta/N:nom defuncta/V:PTC:nom est/ESSE:IND ./SENT

@@ -1,0 +1,1 @@
+Obeunte/V:PTC:abl Baldwino/ADJ Crusszvicziensi/N:dat episcopo/N:dat Swidgerus/ADJ primus/ADJ:NUM in/PREP pontificatum/N:acc Crusszviczensem/N:acc succedit/V:IND ,/PUN vir/N:nom generis/N:gen Almanici/ADJ ,/PUN suavium/ADJ morum/N:acc ,/PUN comis/ADJ et/CC humanus/ADJ ,/PUN ab/PREP Honorio/ADJ:abl papa/N:abl secundo/ADJ:NUM provisus/V:IND ./SENT

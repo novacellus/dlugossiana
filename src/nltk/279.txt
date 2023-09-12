@@ -1,0 +1,2 @@
+Pontificatu/N:abl Poznaniensi/ADJ annis/N:abl decem/ADJ:NUM et/CC septem/ADJ:NUM Marcellus/N:dat primus/ADJ:NUM administrato/V:PTC:abl scabiem/N:acc incurrens/V:PTC:acc ,/PUN omnibus/ADJ:abl sacramentis/N:abl devote/V:PTC perfunctus/V:PTC:nom moritur/V:IND et/CC in/PREP ecclesia/N:abl Poznaniensi/ADJ sepelitur/V:IND ./SENT
+Cui/REL petente/V:PTC:abl Boleslao/ADJ:abl secundo/ADJ:NUM Polonie/N:voc rege/N:abl a/PREP Nicolao/ADJ:abl secundo/ADJ:NUM papa/N:nom provisus/V:PTC:nom Theodorus/N:nom genere/N:abl Italus/N:nom successit/V:IND

@@ -1,0 +1,1 @@
+FRATRES/ADJ Cruciferi/N:nom a/PREP Prutenis/N:abl barbaris/ADJ:abl hostiliter/V:IND invasi/V:IND ,/PUN gravi/ADJ:abl cede/V:IMP confliguntur/V:IND et/CC dux/N:nom exercitus/N:gen fratrum/N:gen Henricus/NPR dictus/V:PTC:nom Stange/N:abl ,/PUN comendator/V:IMP in/PREP Kirsburg/N:nom ,/PUN occiditur/V:IND ./SENT

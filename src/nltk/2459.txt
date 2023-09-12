@@ -1,0 +1,4 @@
+Sabbato/ADJ ante/PREP sancti/ADJ Thome/N:gen rex/N:nom ex/PREP Nova/N:acc Civitate/N:abl discedens/V:PTC:nom ,/PUN feria/V:IMP secunda/ADJ:NUM Cracoviam/N:acc intravit/V:IND ./SENT
+In/PREP eius/DET quoque/ADV presencia/N:abl et/CC conspectu/N:abl edes/V:IND Ioannis/N:gen Dlugosch/NPR canonicalis/ADJ per/PREP Stanislaum/N:acc et/CC Dobeslaum/N:acc de/PREP Kuroszwanki/N:abl effracta/V:PTC:abl et/CC omnibus/ADJ:abl rebus/N:abl nudata/V:PTC:acc ./SENT
+Querela/N:nom quoque/ADV super/PREP his/DIMOS ad/PREP regem/N:acc delata/V:PTC:nom ,/PUN surdis/ADJ (/PUN ut/CS aiunt/V:IND )/PUN auribus/N:abl a/PREP rege/N:abl excepta/V:PTC:abl est/ESSE:IND ./SENT
+Maioribus/ADJ:abl enim/ADV contumeliis/N:abl et/CC probris/N:abl quam/REL his/DIMOS ,/PUN que/CC perferret/V:SUB ,/PUN Ioannem/N:acc Dlugosch/NPR ,/PUN quod/REL iusticiam/ADJ Iacobi/N:gen Sennenski/N:gen episcopi/N:gen Cracoviensis/N:nom enixius/ADV promovebat/V:IND ,/PUN dignum/ADJ respondebat/V:IND ./SENT

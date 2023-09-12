@@ -1,0 +1,3 @@
+Coniugem/N:acc alteram/ADJ ,/PUN Adleydam/ADJ reginam/N:acc Kazimirus/N:nom Polonie/NPR rex/N:nom rebus/N:abl excessisse/V:INF humanis/ADJ:abl cognoscens/V:PTC:nom ,/PUN terciam/ADJ:NUM superinduxit/V:IND ./SENT
+Et/CC missis/V:PTC:abl ad/PREP Henricum/NPR Glogoviensem/ADJ ducem/N:acc procis/N:abl ,/PUN filiam/N:acc eius/DET Hedvigim/NPR ,/PUN virginem/N:acc tam/ADV forma/N:nom quam/REL moribus/N:abl spectabilem/ADJ accipit/V:IND in/PREP consortem/N:acc et/CC nupcias/V:IND aput/PREP Cracoviam/N:acc ex/PREP more/N:abl celebrat/V:IND ./SENT
+Vicesima/N:voc sexta/ADJ:NUM die/N:abl mensis/N:nom Aprilis/N:gen Cunegundis/V:GED ,/PUN filia/N:nom Kazimiri/N:gen regis/N:gen et/CC uxor/N:nom Romani/ADJ ducis/N:gen Saxonie/ADJ ,/PUN moritur/V:IND ./SENT

@@ -1,0 +1,3 @@
+Circa/N:voc Natale/NPR Domini/N:gen cometes/N:nom apparuit/V:IND cursumque/N:acc suum/POSS circa/PREP polum/N:acc in/PREP nocte/N:abl faciens/V:PTC:nom longam/ADJ comam/N:acc suam/POSS nunc/ADV in/PREP occidentem/N:acc ,/PUN nunc/ADV in/PREP orientem/N:acc ,/PUN aliquando/ADV vero/ADV in/PREP austrum/N:acc et/CC aquilonem/N:acc porrigebat/V:IND ,/PUN duravitque/V:IND usque/ADV ad/PREP finem/N:acc mensis/N:nom Februarii/ADJ ./SENT
+Paulo/N:abl post/ADV apparuit/V:IND et/CC alter/ADJ cometes/N:nom in/PREP parte/N:abl orientali/ADJ:abl ,/PUN qui/REL sicut/ADV minor/ADJ:COM erat/ESSE:IND priori/ADJ:COM loco/N:abl ,/PUN ita/ADV et/CC duracione/N:loc ./SENT
+Tres/ADJ:NUM eciam/N:acc simul/ADV lune/V:SUB in/PREP celo/N:abl apparuere/V:IND ./SENT

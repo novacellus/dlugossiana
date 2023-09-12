@@ -1,0 +1,1 @@
+AUTUMPNALI/ADJ tempore/N:abl stella/N:nom crinita/V:PTC:nom in/PREP occidentali/ADJ:abl parte/N:abl in/PREP Scorpionis/N:gen signo/N:abl apparuit/V:IND ,/PUN que/CC per/PREP unum/ADJ:NUM mensem/N:acc durans/V:PTC:acc ,/PUN facis/V:IND sue/N:abl radios/N:acc aliquando/ADV ad/PREP orientem/N:acc ,/PUN aliquando/ADV ad/PREP meridiem/N:acc emittebat/V:IND ./SENT

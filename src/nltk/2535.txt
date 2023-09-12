@@ -1,0 +1,3 @@
+Septima/NPR Aprilis/N:gen opidum/ADJ Stradomia/N:nom urbi/N:dat Cracoviensi/N:dat contiguum/ADJ ab/PREP igne/N:abl ,/PUN quem/REL mulier/N:nom coctis/ADJ panibus/N:abl parum/ADV provide/ADJ servaverat/V:IND ,/PUN in/PREP nocte/N:abl cum/PREP ecclesia/N:abl sancte/ADJ Hedvigis/NPR et/CC hospitali/ADJ conflagravit/V:IND ./SENT
+Monasterium/N:nom sancti/ADJ Bernardini/N:gen cum/PREP ecclesia/N:abl ,/PUN propiciacione/N:loc Divina/N:nom et/CC fratrum/N:gen devota/V:PTC:nom invocacione/N:abl servatum/V:PTC:acc ./SENT
+Sub/PREP eodem/DET tempore/N:abl Clodawa/N:gen ,/PUN Wartha/N:voc opida/ADJ in/PREP Maiori/ADJ:COM Polonia/N:acc arsere/V:IND ./SENT

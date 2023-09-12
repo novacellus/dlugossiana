@@ -1,0 +1,2 @@
+Ordo/N:dat Templariorum/ADJ subito/ADV in/PREP variis/ADJ:abl regionibus/N:abl Christianorum/N:gen destruitur/V:IND ,/PUN mirantibus/V:PTC:abl universis/ADJ:abl ,/PUN quomodo/ADV tam/ADV magni/ADJ domini/N:gen sic/ADV insperate/ADJ poterant/V:IND opprimi/V:INF et/CC extingui/V:INF ./SENT
+Qui/REL ordo/N:nom annis/N:abl centum/ADJ:NUM octuaginta/ADJ:NUM quatuor/ADJ:NUM duraverat/V:IND ./SENT

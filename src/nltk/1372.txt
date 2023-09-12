@@ -1,0 +1,4 @@
+DUPLEX/N:nom et/CC hoc/DIMOS anno/N:abl a/PREP Cruciferis/N:abl de/PREP Prussia/N:abl in/PREP Lithwanos/N:acc expedicio/V:IND habita/V:PTC:nom est/ESSE:IND ./SENT
+Quarum/REL unam/ADJ:NUM frater/N:nom Vigandus/N:gen de/PREP Belderstheyn/N:acc ,/PUN alteram/ADJ commendator/N:nom de/PREP Insterborg/N:nom administravit/V:IND ./SENT
+Nichil/ADJ memorabile/ADJ in/PREP utraque/PRON gestum/N:acc ,/PUN neque/CC enim/ADV Lithwani/N:nom crebra/ADJ vastacione/N:loc fessi/ADJ in/PREP discrimen/N:acc dimicacionis/N:gen prodibant/V:IND ./SENT
+Usta/V:PTC:nom itaque/ADV sunt/ESSE:IND tecta/N:nom et/CC cedibus/ADJ in/PREP senes/N:acc et/CC impuberes/ADJ indultum/N:acc ,/PUN et/CC captivorum/ADJ aliqualis/ADJ numerus/N:nom Prussiam/ADJ adductus/V:PTC:nom ./SENT

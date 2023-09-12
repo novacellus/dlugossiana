@@ -1,0 +1,2 @@
+Excessit/V:IND e/PREP vita/N:abl eo/DET anno/N:abl Thimotheus/ADJ episcopus/N:nom Poznaniensis/ADJ ,/PUN et/CC accepta/V:PTC:abl in/PREP ecclesia/N:abl Poznaniensi/ADJ sepultura/V:PTC Paulinum/N:acc primum/ADJ:NUM ,/PUN nacione/N:loc Italum/N:gen ,/PUN a/PREP Bonifacio/N:nom septimo/ADJ:NUM ,/PUN Boleslao/ADJ:abl rege/N:abl petente/V:PTC:abl ,/PUN confirmatum/ADJ habuit/V:IND successorem/N:acc ./SENT
+Aliis/PRON placet/V:IND illum/DIMOS non/ADV in/PREP Poznaniensi/ADJ ecclesia/N:abl ,/PUN sed/CC aput/PREP Brandemburk/NPR fuisse/ESSE:INF sepultum/V:IND ./SENT

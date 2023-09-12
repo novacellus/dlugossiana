@@ -1,0 +1,4 @@
+SECUNDO/ADJ Kalendas/N:acc Maii/ADJ in/PREP opido/ADJ:abl Kowale/ADJ terre/V:IMP Cuyawiensis/N:gen ducissa/N:nom et/CC consors/N:nom Wladislai/N:gen Loktek/N:nom Hedvigis/NPR ,/PUN filium/N:acc Kazimirum/N:gen enixa/V:PTC:nom est/ESSE:IND ./SENT
+Cuius/REL ortum/V:PTC:nom et/CC natalem/ADJ singulari/ADJ:abl commemoracione/N:abl dignum/ADJ future/V:PTC tradere/V:INF etati/N:dat ratus/V:PTC:nom sum/ESSE:IND ./SENT
+Per/PREP illum/DIMOS enim/ADV ad/PREP legum/N:gen instituta/V:PTC:nom ,/PUN abrogatis/V:PTC:abl abusibus/N:abl Polonicis/N:loc reducti/V:PTC:nom sumus/ESSE:IND et/CC florentem/ADJ atque/CC beatum/ADJ statum/N:acc eius/DET ope/N:abl et/CC prudencia/N:abl ,/PUN que/CC etiam/CC in/PREP puero/N:abl reluxit/V:IND ,/PUN sortiti/V:PTC:nom ./SENT
+Eius/N:nom etiam/CC cura/N:nom ,/PUN sumptu/N:abl et/CC animo/N:abl munifico/ADJ:abl Regnum/N:gen Polonie/N:voc pulcerrimorum/N:gen murorum/N:gen fabrica/N:abl exornatum/V:PTC:acc est/V:IMP ./SENT

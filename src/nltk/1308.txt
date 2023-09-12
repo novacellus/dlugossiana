@@ -1,0 +1,2 @@
+Studium/N:acc universale/ADJ Prage/V:IMP a/PREP Karolo/N:abl Romanorum/N:gen et/CC Bohemie/N:gen rege/N:abl instituitur/V:IND et/CC dotatur/V:IND ,/PUN quod/REL Innocencius/ADJ sextus/ADJ:NUM papa/N:nom ad/PREP instanciam/N:acc Caroli/N:gen regis/N:gen confirmavit/V:IND ./SENT
+Id/DET cum/PREP annis/N:abl vix/ADV quinquaginta/ADJ:NUM durasset/V:SUB ,/PUN a/PREP peste/N:abl heretica/ADJ:abl exterminatum/V:PTC:acc periit/V:IND ./SENT

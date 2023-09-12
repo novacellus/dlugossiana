@@ -1,0 +1,3 @@
+REX/ADJ Bela/N:nom de/PREP ossibus/N:abl sanctorum/N:gen curam/N:acc gerens/V:PTC:acc ,/PUN misit/V:IND in/PREP Albam/N:acc Regalem/N:acc ,/PUN et/CC corpus/N:nom beati/ADJ Stephani/N:gen cum/PREP aliorum/PRON sanctorum/ADJ ossibus/N:abl et/CC clenodiis/N:abl ,/PUN vestibus/N:dat ornamentisque/V:IND ecclesie/ADJ per/PREP consortem/N:acc suam/POSS Mariam/N:acc reginam/N:acc et/CC filium/N:acc parvulum/ADJ biennem/ADJ ad/PREP regiones/N:acc maritimas/ADJ ad/PREP Spoletum/N:acc transmisit/V:IND ./SENT
+Reginam/N:acc multe/ADJ nobiles/ADJ matrone/N:dat secute/V:PTC sunt/ESSE:IND ex/PREP Hungaria/N:acc ./SENT
+Sub/PREP hoc/DIMOS tempore/N:abl rex/N:nom Colomannus/N:nom moritur/V:IND et/CC in/PREP monasterio/N:abl Predicatorum/V:PTC aput/PREP Czaszmam/ADJ sepelitur/V:IND ./SENT

@@ -1,0 +1,2 @@
+Aput/N:acc Russiam/N:acc ,/PUN Bohemiam/N:acc ,/PUN Podoliam/N:acc et/CC Lithuaniam/N:acc res/N:nom eo/DET anno/N:abl quiete/N:loc ;/SENT aput/PREP Hungariam/ADJ predonibus/N:abl expulsis/V:PTC:abl aut/CC magna/ADJ ex/PREP parte/N:abl trucidatis/V:PTC:abl ,/PUN pax/N:nom redire/V:INF cura/N:nom Emerici/NPR Diak/N:nom cepit/V:IND ./SENT
+Qui/REL industria/ADJ et/CC factivitate/V:PTC inter/PREP Hungaros/N:acc pollens/V:PTC:nom ,/PUN ex/PREP admodum/ADV tenui/ADJ:abl homine/N:abl in/PREP celebrem/ADJ evaserat/V:IND ./SENT

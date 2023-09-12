@@ -1,0 +1,2 @@
+Prohorius/N:nom sive/CC ,/PUN ut/CS aliis/PRON placet/V:IND ,/PUN Prohortus/N:nom primus/ADJ:NUM Cracoviensis/N:gen ecclesie/ADJ archiepiscopus/N:nom et/CC fidei/N:gen religionisque/V:PTC Christiane/ADV in/PREP nova/ADJ:abl plantacione/N:abl dilatator/N:nom ,/PUN etate/N:abl et/CC senio/N:abl confectus/V:PTC:nom moritur/V:IND et/CC in/PREP ecclesia/N:abl Cracoviensi/N:abl sepelitur/V:IND ./SENT
+Sedit/V:IND in/PREP Cracoviensi/N:abl ecclesia/N:abl annis/N:abl uno/ADJ:NUM et/CC triginta/ADJ:NUM ;/SENT cui/REL Proculfus/N:nom succedite/V:IMP ./SENT

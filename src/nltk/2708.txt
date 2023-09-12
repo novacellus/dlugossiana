@@ -1,0 +1,2 @@
+Die/N:dat Solis/N:dat tredecima/ADJ mensis/N:nom Maii/ADJ in/PREP meridie/N:abl aput/PREP Cracoviensem/N:acc arcem/N:acc Elisabeth/NPR Polonie/NPR regina/N:nom quintam/ADJ:NUM filiam/N:acc ,/PUN decimam/ADJ:NUM vero/ADV prolem/N:acc ,/PUN effudit/V:IND ./SENT
+Quae/REL a/PREP Ioanne/N:dat Rzeschowski/ADJ Cracoviensi/N:dat episcopo/N:dat baptisata/V:PTC ,/PUN Elisabeth/NPR nomen/N:acc accepit/V:IND ./SENT
